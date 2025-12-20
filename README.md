@@ -6,7 +6,7 @@
 
 <br>
 <img src="https://64.media.tumblr.com/3c065c631723710271f4b6f15dfe3a16/tumblr_pv5623ZzA71qciqqno8_540.gifv" 
-     alt="Matrix Coder" width="1000" height="400" style="border-radius: 10px; 
+     alt="Matrix Coder" width="700" height="400" style="border-radius: 10px; 
      box-shadow: 0 0 20px rgba(0, 255, 136, 0.6);  object-fit: cover; object-position: center;">
 
 </div>
@@ -52,7 +52,7 @@ const harsh = {
 
 ## 🌊 Current Vibes
 
-<img src="https://s1.ezgif.com/tmp/ezgif-173200eca0216e53.gif" width="1000">
+<img src="https://s1.ezgif.com/tmp/ezgif-173200eca0216e53.gif" width="500">
 
 ```javascript
 // What I'm up to 🎧
