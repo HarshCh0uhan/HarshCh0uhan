@@ -38,7 +38,7 @@ const harsh = {
 
 ## 🌊 Current Vibes
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/863930103154127.5f46acc8b77bb.gif" width="1000">
 
 ```javascript
 // What I'm up to 🎧
