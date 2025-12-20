@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Matrix Coder" width="61000" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 136, 0.6);">
+<img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Matrix Coder" width="500" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 136, 0.6);">
 
 </div>
 
