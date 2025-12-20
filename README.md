@@ -37,6 +37,19 @@ const harsh = {
 
 </div>
 
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HarshCh0uhan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshCh0uhan&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshCh0uhan&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true" width="95%" />
+
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=HarshCh0uhan&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%" /> -->
+
+</div>
+
 ## 🌊 Current Vibes
 
 <img src="https://s1.ezgif.com/tmp/ezgif-173200eca0216e53.gif" width="1000">
