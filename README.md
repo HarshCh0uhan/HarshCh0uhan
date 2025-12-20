@@ -5,8 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+dreams+one+commit+at+a+time;500%2B+Problems+Solved+%F0%9F%94%A5;React+%7C+Node.js+%7C+MongoDB;Always+learning%2C+always+coding" alt="Typing SVG" />
 
 <br>
-
-<img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Matrix Coder" width="500" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 136, 0.6);">
+<img src="https://64.media.tumblr.com/3c065c631723710271f4b6f15dfe3a16/tumblr_pv5623ZzA71qciqqno8_540.gifv" 
+     alt="Matrix Coder" width="1000" height="400" style="border-radius: 10px; 
+     box-shadow: 0 0 20px rgba(0, 255, 136, 0.6);  object-fit: cover; object-position: center;">
 
 </div>
 
