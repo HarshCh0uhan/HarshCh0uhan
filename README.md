@@ -101,7 +101,7 @@ const harsh = {
 
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="30%" valign="top">
 
 <h2 style="color: #58A6FF;">🌊 Current Vibes</h2>
 
