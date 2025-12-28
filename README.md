@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Chouhan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=55&descAlign=50" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Chouhan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=55&descAlign=50" width="80%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+dreams+one+commit+at+a+time;500%2B+Problems+Solved+%F0%9F%94%A5;React+%7C+Node.js+%7C+MongoDB;Always+learning%2C+always+coding" alt="Typing SVG" />
 
 <br>
-<img src="https://64.media.tumblr.com/3c065c631723710271f4b6f15dfe3a16/tumblr_pv5623ZzA71qciqqno8_540.gifv" 
-     alt="Matrix Coder" width="600" height="400" style="border-radius: 10px; 
-     box-shadow: 0 0 20px rgba(0, 255, 136, 0.6);  object-fit: cover; object-position: center;">
 
 </div>
 
-## 🚀 Quick Intro
+<table bordere=>
+<tr>
+<td width="50%">
 
+## 🚀 Quick Intro
 ```javascript
 const harsh = {
   location: "📍 Indore, India",
@@ -21,6 +21,19 @@ const harsh = {
   motto: "Code • Coffee • Repeat ☕"
 };
 ```
+
+</td>
+<td width="50%">
+
+<img src="https://64.media.tumblr.com/3c065c631723710271f4b6f15dfe3a16/tumblr_pv5623ZzA71qciqqno8_540.gifv" 
+     alt="Matrix Coder" 
+     width="100%" 
+     style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 136, 0.6);">
+
+</td>
+</tr>
+</table>
+
 
 <div align="center">
 
@@ -41,24 +54,28 @@ const harsh = {
 
 ## 📊 GitHub Stats
 
-<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HarshCh0uhan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF" /> -->
-<!-- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshCh0uhan&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9" /> -->
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshCh0uhan&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true" width="95%" />
 
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshCh0uhan&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" />
 
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshCh0uhan&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshCh0uhan&theme=tokyonight&hide_border=true&title_color=00D9FF" alt="Top Languages" />
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=HarshCh0uhan&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%" /> -->
 
 </div>
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🌊 Current Vibes
 
-<img src="https://s1.ezgif.com/tmp/ezgif-173200eca0216e53.gif" width="500">
+<img src="https://i.pinimg.com/originals/f8/40/06/f840065b92b72ac642d40e762cadaf25.gif">
+
+</td>
+<td width="50%">
 
 ```javascript
 // What I'm up to 🎧
@@ -69,6 +86,11 @@ const currentStatus = {
   vibing: "Lofi beats + Late night coding 🌙"
 };
 ```
+
+</td>
+</tr>
+</table>
+
 
 <div align="center">
 
