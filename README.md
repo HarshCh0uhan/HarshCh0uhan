@@ -85,14 +85,15 @@ const harsh = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="40%">
 
 ## 🌊 Current Vibes
 
-<img src="https://i.pinimg.com/originals/39/97/6b/39976b18d4a2475e7a5083a845415cb8.gif">
+<!-- <img src="https://cdna.artstation.com/p/assets/images/images/079/639/590/original/killer-rabbit-media-roof-dog-boy-gif.gif?1725441172">
+<img src="https://cdna.artstation.com/p/assets/images/images/079/639/600/original/killer-rabbit-media-roof-dog-boy-reel.gif?1725441192"> -->
 
 </td>
-<td width="50%">
+<td width="60%">
 
 ```javascript
 // What I'm up to 🎧
