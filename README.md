@@ -101,7 +101,7 @@ const harsh = {
 
 <table>
 <tr>
-<td width="30%" valign="top">
+<td width="35%" valign="top">
 
 <h2 style="color: #58A6FF;">🌊 Current Vibes</h2>
 
@@ -126,7 +126,18 @@ const currentStatus = {
   exploring: "Next.js 14 + AI Integration",
   vibing: "Lofi beats + Late night coding 🌙"
 };
+
 ```
+
+
+</div>
+
+
+<h2 style="color: #FF6B35;">🎧 Coding Soundtrack</h2>
+
+<div>
+  
+[![Lofi Hip Hop](https://img.shields.io/badge/🎵_Lofi_Beats-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=0hV0Iqt_u00&list=PLurKV_1CJunHwK_4xBI7-LUsPkQM-2ikA)  
 
 </div>
 
