@@ -52,15 +52,32 @@ const harsh = {
 
 <div align="center">
 
+
+
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshCh0uhan&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B35&area=true&hide_border=true" width="95%" />
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshCh0uhan&show_icons=true&theme=radical&hide_border=true&title_color=FF6B35&icon_color=58A6FF&bg_color=0D1117&text_color=FFFFFF" width="100%" alt="GitHub Stats"/>
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-streak-stats-eight.vercel.app?user=HarshCh0uhan&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" width="100%" alt="GitHub Streak"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshCh0uhan&theme=radical&hide_border=true&title_color=FF6B35&bg_color=0D1117&text_color=FFFFFF&layout=compact&langs_count=8" width="100%" alt="Top Languages"/>
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshCh0uhan&bg_color=0D1117&color=58A6FF&line=FF6B35&point=FFFFFF&area=true&hide_border=true&height=300" width="100%" alt="Contribution Graph"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshCh0uhan&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" />
-
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshCh0uhan&theme=tokyonight&hide_border=true&title_color=00D9FF" alt="Top Languages" />
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=HarshCh0uhan&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%" /> -->
 
