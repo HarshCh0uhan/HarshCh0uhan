@@ -10,20 +10,20 @@
 
 <table bordere=>
 <tr>
-<td width="50%">
+<td width="55%">
 
 ## 🚀 Quick Intro
 ```javascript
 const harsh = {
   location: "📍 Indore, India",
-  role: ["💻 Full Stack Developer", "🎓 CS Student"],
+  role: ["💻 Full Stack Developer", "🎓 Student"],
   focus: "Building fast, scalable web apps",
   motto: "Code • Coffee • Repeat ☕"
 };
 ```
 
 </td>
-<td width="50%">
+<td width="45%">
 
 <img src="https://64.media.tumblr.com/3c065c631723710271f4b6f15dfe3a16/tumblr_pv5623ZzA71qciqqno8_540.gifv" 
      alt="Matrix Coder" 
@@ -89,7 +89,7 @@ const harsh = {
 
 ## 🌊 Current Vibes
 
-<img src="https://i.pinimg.com/originals/f8/40/06/f840065b92b72ac642d40e762cadaf25.gif">
+<img src="https://i.pinimg.com/originals/39/97/6b/39976b18d4a2475e7a5083a845415cb8.gif">
 
 </td>
 <td width="50%">
