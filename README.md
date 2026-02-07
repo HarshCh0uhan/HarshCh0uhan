@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Chouhan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Chouhan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=700&lines=Building+dreams+one+commit+at+a+time+%F0%9F%9A%80;500%2B+Problems+Solved+%F0%9F%94%A5;React+%7C+Node.js+%7C+MongoDB+%7C+AWS;Always+learning%2C+always+coding+%F0%9F%92%BB" alt="Typing SVG" />
 
@@ -15,14 +15,14 @@
 <tr>
 <td width="55%" valign="top">
 
-<h2 style="color: #FF6B35;">🚀 Quick Intro</h2>
+<h2 style="color: #FF6B35;">Quick Intro</h2>
 
 ```javascript
 const harsh = {
-  location: "📍 Indore, India",
-  role: ["💻 Full Stack Developer", "🎓 Student"],
+  location: "Indore, India",
+  role: ["Full Stack Developer", "Student"],
   focus: "Building fast, scalable web apps",
-  fuel: "Curiosity × Consistency = Growth 📈"
+  fuel: "Curiosity × Consistency = Growth"
 };
 ```
 
@@ -45,7 +45,7 @@ const harsh = {
 <!-- Tech Arsenal Section -->
 <div align="center">
 
-<h2 style="color: #58A6FF;">🛠️ Tech Arsenal</h2>
+<h2 style="color: #58A6FF;">Tech Arsenal</h2>
 
 <div style="background-color: #161B22; padding: 20px; border-radius: 15px; border: 1px solid #30363D;">
 
@@ -71,7 +71,7 @@ const harsh = {
 <!-- GitHub Stats Section -->
 <div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 15px;">
 
-<h2 style="color: #FF6B35;">📊 GitHub Stats</h2>
+<h2 style="color: #FF6B35;">GitHub Stats</h2>
 
 <table>
 <tr>
@@ -88,59 +88,6 @@ const harsh = {
 </td>
 <td width="50%" valign="top">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshCh0uhan&bg_color=0D1117&color=58A6FF&line=FF6B35&point=FFFFFF&area=true&hide_border=true&height=300" width="100%" alt="Contribution Graph"/>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- Current Vibes Section -->
-<div style="background: linear-gradient(135deg, #161B22 0%, #0D1117 100%); padding: 25px; border-radius: 15px; border: 1px solid #30363D;">
-
-<table>
-<tr>
-<td width="40%" valign="top">
-
-<h2 style="color: #58A6FF;">🌊 Current Vibes</h2>
-
-<img src="https://cdna.artstation.com/p/assets/images/images/079/639/590/original/killer-rabbit-media-roof-dog-boy-gif.gif?1725441172" 
-     width="100%" 
-     style="border-radius: 15px; border: 2px solid #58A6FF; box-shadow: 0 0 15px rgba(88, 166, 255, 0.3);">
-
-</td>
-<td width="70%" valign="top">
-
-<h2 style="color: #FF6B35;">💭 Current Focus</h2>
-
-<div style="background-color: #0D1117; border: 2px solid #30363D; border-radius: 10px; padding: 20px; font-family: 'Courier New', monospace; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
-
-```bash
-$ cat current_status.js
-
-// What I'm up to 🎧
-const currentStatus = {
-  learning: "System Design + Advanced DSA",
-  building: "Full Stack SaaS Application", 
-  exploring: "Next.js 14 + AI Integration",
-  vibing: "Lofi beats + Late night coding 🌙"
-};
-
-```
-
-
-</div>
-
-
-<h2 style="color: #FF6B35;">🎧 Coding Soundtrack</h2>
-
-<div>
-  
-[![Lofi Hip Hop](https://img.shields.io/badge/🎵_Lofi_Beats-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=0hV0Iqt_u00&list=PLurKV_1CJunHwK_4xBI7-LUsPkQM-2ikA)  
-
-</div>
-
 </td>
 </tr>
 </table>
@@ -183,12 +130,51 @@ const currentStatus = {
 
 </div>
 
+
 <br>
+
+
+<br>
+
+
+<br>
+
+
+<!-- Current Vibes Section -->
+<div style="background: linear-gradient(135deg, #161B22 0%, #0D1117 100%); padding: 25px; border-radius: 15px; border: 1px solid #30363D;">
+
+<table>
+<tr>
+
+<td width="70%" valign="top">
+
+<h2 style="color: #FF6B35;">Current Focus</h2>
+
+<div style="background-color: #0D1117; border: 2px solid #30363D; border-radius: 10px; padding: 20px; font-family: 'Courier New', monospace; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);">
+
+```bash
+$ cat current_status.js
+
+// What I'm up to 🎧
+const currentStatus = {
+  learning: "System Design + Advanced DSA",
+  building: "Full Stack SaaS Application", 
+  exploring: "Next.js 14 + AI Integration",
+  vibing: "Lofi beats + Late night coding 🌙"
+};
+
+```
+
+
+</div>
+
+</td>
+<td width="40%" valign="top">
 
 <!-- Connect Section -->
 <div align="center" style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); padding: 25px; border-radius: 15px; border: 1px solid #30363D;">
 
-<h2 style="color: #FF6B35;">📫 Let's Connect</h2>
+<h2 style="color: #FF6B35;">Let's Connect</h2>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshcoding2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-chouhan)
@@ -207,6 +193,10 @@ const currentStatus = {
 
 </div>
 
-<br>
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/> -->
